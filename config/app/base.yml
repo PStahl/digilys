@@ -1,4 +1,4 @@
-secret_token: overrideme
+secret_token: 84740c544474a976e444c23c1baf83aac975ef55ae36c313f3c67bd1188ea9eed1e39c9ffb92969469965a988cd59ef9b66cac9f362d6a520d4bcaf0f9419342
 feedback: false
 
 # Set to false if only one instance is used
